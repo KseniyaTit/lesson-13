@@ -6,4 +6,5 @@ function func (obj){
             return false}
     }
 }
+/* */
 /* не пойму почему работает не правильно. возвращает false когда true.i need you help here=) */
