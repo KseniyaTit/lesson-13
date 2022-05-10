@@ -12,3 +12,5 @@ function greet (){
     console.log('good morning!')
 }
 obj.greet = greet 
+
+/* */
